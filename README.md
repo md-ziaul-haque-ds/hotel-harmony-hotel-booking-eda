@@ -358,7 +358,7 @@ Overall, this project demonstrates the practical application of Python, Pandas, 
 │   ├── [Notebook chart screenshots]
 │   └── ...
 ├── Hotel_Booking_EDA.ipynb
-└── Final_Business_Insights.docx
+└── Hotel_Harmony_Business_Insights.docx
 ├── README.md
 ├── hotel_bookings.csv
 ```
