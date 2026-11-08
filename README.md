@@ -363,10 +363,6 @@ Overall, this project demonstrates the practical application of Python, Pandas, 
 ├── hotel_bookings.csv
 ```
 
-*Note: Update the filenames and folder structure above to match the actual files uploaded to the repository.*
-
----
-
 ## 👨‍💻 Author
 
 **Md Ziaul Haque**
